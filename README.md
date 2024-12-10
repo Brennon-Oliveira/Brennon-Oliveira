@@ -1,4 +1,4 @@
-# Olá, eu sou o Brennon Gabriel! 👋
+# Olá, eu sou o Brennon Gabriel de Oliveira! 👋
 
 Sou desenvolvedor full stack, empresário e apaixonado por tecnologia e inovação. Meu objetivo é sempre entregar soluções digitais de alto impacto, combinando conhecimentos em diversas linguagens e frameworks para criar aplicações escaláveis, seguras e de fácil manutenção.
 
